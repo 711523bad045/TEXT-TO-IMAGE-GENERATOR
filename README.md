@@ -1,7 +1,7 @@
 # TEXT-TO-IMAGE-GENERATOR
 The Text-to-Image Generator is a simple AI-powered web application that creates images based on user input text. When the user types a word or description — such as “rat”, “sunset on a beach”, or “a blue car” — the program automatically generates a matching image using an online AI model.
-Project Title: Text-to-Image Generator using AI
-💡 ![Uploading ChatGPT Image Oct 30, 2025, 02_44_47 PM.png…]()
+Project Title: Text-to-Image Generator using AI<img width="707" height="691" alt="Screenshot 2025-10-30 145056" src="https://github.com/user-attachments/assets/d3a8b19a-715f-4b84-8990-7640ad40166d" />
+
 <img width="1766" height="848" alt="Screenshot 2025-10-30 143422" src="https://github.com/user-attachments/assets/9b22cc38-7aa3-4d4c-b29e-07ee0474b207" />
 Introduction
 
